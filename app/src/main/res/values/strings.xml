@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string name="txt_show_count">今天剩下100次</string>
+</resources>
